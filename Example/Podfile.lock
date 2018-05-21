@@ -1,0 +1,16 @@
+PODS:
+  - MebH5Demo (0.1.0)
+
+DEPENDENCIES:
+  - MebH5Demo (from `../`)
+
+EXTERNAL SOURCES:
+  MebH5Demo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MebH5Demo: f59004ebc0fc9225f8959d70e08e536dc43b6528
+
+PODFILE CHECKSUM: 279c411a34e1fc9eaf245bd75bd6dc282f8015dd
+
+COCOAPODS: 1.4.0
